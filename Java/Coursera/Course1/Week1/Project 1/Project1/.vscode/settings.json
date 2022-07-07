@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/ildevesh/Documents/Codes/Java/Coursera/Course1/Week1/Resources/courserajava.jar",
+        "/home/ildevesh/Documents/Codes/Java/Coursera/Course1/Week1/Resources/apache-csv.jar"
+    ]
+}
